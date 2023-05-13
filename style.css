@@ -284,14 +284,14 @@ body {
     padding: 7px;
     border-radius: 3px;
     border: none;
-    background-color: red;
+    background-color: rgb(179, 64, 64);
     color: white;
     font-weight: 600;
     outline: none;
     cursor: pointer;
 }
 .form-box .button button:hover{
-    background: #a15c5c;
+    background: #a01313;
 }
 
 .form-box .regitration-login{
