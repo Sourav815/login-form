@@ -158,7 +158,7 @@ body {
 }
 
 .heading h1 {
-    color: #bbfd06;
+    color: #e4e4e4;
     font-size: 40px;
 }
 
@@ -284,14 +284,14 @@ body {
     padding: 7px;
     border-radius: 3px;
     border: none;
-    background-color: rgb(179, 64, 64);
+    background-color: #3ec563;
     color: white;
     font-weight: 600;
     outline: none;
     cursor: pointer;
 }
 .form-box .button button:hover{
-    background: #a01313;
+    background: #36b357;
 }
 
 .form-box .regitration-login{
